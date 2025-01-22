@@ -2,7 +2,7 @@
 
 Source code of "OQFV: Optimized Quantization-Aware Fine-tuning for 2-bit Visual Transformer-based Model".
 
-![model2](./README.assets/model2.jpg)
+![OQFV](./README.assets/OQFV.jpg)
 
 # Requirements
 
